@@ -67,7 +67,7 @@ These Windows versions support advanced classification scanning and protection:
 |Setting |Windows 10, 1809 and later  |macOS Catalina 10.15 or later (preview)  |Notes  |
 |---------|---------|---------|---------|
 |File path exclusions     |Supported         |Supported         |macOS includes a recommended list of exclusions that is on by default          |
-|Unallowed Apps     |Supported         |Supported         |         |
+|Unallowed Apps     |Supported         |Supported         |Auto-quarantine (preview) is only supported on Windows.          | 
 |Unallowed Bluetooth apps    |Supported         |not supported         |         |
 |Browser and domain restrictions to sensitive items      |Supported         |Supported         |         |
 |Additional settings for Endpoint DLP     |Supported         |Supported         |Only the default business justifications are supported for macOS devices         |
